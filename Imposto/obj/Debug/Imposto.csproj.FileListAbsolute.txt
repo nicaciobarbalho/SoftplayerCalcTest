@@ -1,0 +1,6 @@
+C:\Users\Nicácio\source\repos\SoftplayerCalcTest\Imposto\bin\Debug\Imposto.dll
+C:\Users\Nicácio\source\repos\SoftplayerCalcTest\Imposto\bin\Debug\Imposto.pdb
+C:\Users\Nicácio\source\repos\SoftplayerCalcTest\Imposto\obj\Debug\Imposto.csprojAssemblyReference.cache
+C:\Users\Nicácio\source\repos\SoftplayerCalcTest\Imposto\obj\Debug\Imposto.csproj.CoreCompileInputs.cache
+C:\Users\Nicácio\source\repos\SoftplayerCalcTest\Imposto\obj\Debug\Imposto.dll
+C:\Users\Nicácio\source\repos\SoftplayerCalcTest\Imposto\obj\Debug\Imposto.pdb
