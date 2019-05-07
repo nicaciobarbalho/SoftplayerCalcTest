@@ -1,6 +1,7 @@
 ﻿using Imposto;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -24,8 +25,7 @@ namespace SoftplayerCalcTest.Controllers
         [Route("showmethecode")]
         public string  ShowMeTheCode()
         {
-            
-            return @"";
+            return ConfigurationManager.AppSettings["git"];
         }
     }
 }
