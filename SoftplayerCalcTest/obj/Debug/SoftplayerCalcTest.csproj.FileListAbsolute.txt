@@ -216,3 +216,5 @@ C:\Users\Nicácio\source\repos\temp\SoftplayerCalcTest\SoftplayerCalcTest\obj\De
 C:\Users\Nicácio\source\repos\temp\SoftplayerCalcTest\SoftplayerCalcTest\obj\Debug\SoftplayerCalcTest.csproj.CopyComplete
 C:\Users\Nicácio\source\repos\temp\SoftplayerCalcTest\SoftplayerCalcTest\obj\Debug\SoftplayerCalcTest.dll
 C:\Users\Nicácio\source\repos\temp\SoftplayerCalcTest\SoftplayerCalcTest\obj\Debug\SoftplayerCalcTest.pdb
+C:\Users\Nicácio\source\repos\temp\SoftplayerCalcTest\SoftplayerCalcTest\bin\Swashbuckle.Core.dll
+C:\Users\Nicácio\source\repos\temp\SoftplayerCalcTest\SoftplayerCalcTest\bin\WebActivatorEx.dll
